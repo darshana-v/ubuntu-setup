@@ -28,6 +28,7 @@ The documentation is a bit leaned towards using ubuntu on a virtual machine.
   - `git config --global user.name "<name>"`
   - `sudo apt install nodejs && nodejs -v`
   - `sudo apt install npm && npm -v` or install nvm and other relevant node versions
+  - installation through nvm: `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash`, `command -v nvm`, `nvm install node`, `nvm install <version-number>` to reinstall a specific nodejs version, set the version as default using `nvm use <version no>`, check list of versions using `nvm ls-remote`
   - nodemon: `npm i -g nodemon`
   - vscode: `sudo snap install --classic code`
   - postman: `sudo snap install postman`
