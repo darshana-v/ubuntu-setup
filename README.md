@@ -1,6 +1,6 @@
 # ubuntu-setup
 
-My ubuntu setup for coding documented here so I don't have to research the same resources again.
+My ubuntu setup for coding documented here so I don't have to research the same resources again and because my vm runs out of space so often that I am tired of visiting the same tutorials.
 
 The documentation is a bit leaned towards using ubuntu on a virtual machine.
 
